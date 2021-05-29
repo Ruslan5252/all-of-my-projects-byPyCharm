@@ -1,0 +1,8 @@
+a=input('Введите ваше имя  ')
+b=input('Введите фамилию  ')
+c=input('Введите возраст  ')
+d=input('Введите страну  ')
+print('Name: ',a)
+print('Surname: ',b)
+print("Age:  ",c)
+print("country:  ",d)

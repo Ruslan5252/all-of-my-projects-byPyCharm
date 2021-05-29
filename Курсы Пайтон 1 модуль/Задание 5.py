@@ -1,0 +1,6 @@
+a=input('Введите университет  ')
+b=input('Введите факультет  ')
+c=input('Введите предмет  ')
+print('University: ',a)
+print('Faculty : ',b)
+print("Subject:  ",c)

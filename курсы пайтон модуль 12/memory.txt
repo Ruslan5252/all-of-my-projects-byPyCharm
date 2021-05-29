@@ -1,0 +1,8 @@
+id 1
+login ruslan
+password 5252
+
+id 2
+login artem
+password 5151
+
